@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1025, 28.7041]
+        },
+        "properties": {
+          "name": "Delhi",
+          "description": "The capital city of India.",
+          "population": 30291000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.8777, 19.076]
+        },
+        "properties": {
+          "name": "Mumbai",
+          "description": "The financial capital of India.",
+          "population": 20411000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.3639, 22.5726]
+        },
+        "properties": {
+          "name": "Kolkata",
+          "description": "Known for its cultural heritage.",
+          "population": 14900000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.2707, 13.0827]
+        },
+        "properties": {
+          "name": "Chennai",
+          "description": "A hub for South Indian culture and tradition.",
+          "population": 11324000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.5946, 12.9716]
+        },
+        "properties": {
+          "name": "Bangalore",
+          "description": "The IT capital of India.",
+          "population": 11430000
+        }
+      }
+    ]
+  }
+  

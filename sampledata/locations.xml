@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Major Cities in India</name>
+    <description>Locations and descriptions of major cities in India</description>
+    <Placemark>
+      <name>Delhi</name>
+      <description>The capital city of India. Population: 30,291,000</description>
+      <Point>
+        <coordinates>77.1025,28.7041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mumbai</name>
+      <description>The financial capital of India. Population: 20,411,000</description>
+      <Point>
+        <coordinates>72.8777,19.076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kolkata</name>
+      <description>Known for its cultural heritage. Population: 14,900,000</description>
+      <Point>
+        <coordinates>88.3639,22.5726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chennai</name>
+      <description>A hub for South Indian culture and tradition. Population: 11,324,000</description>
+      <Point>
+        <coordinates>80.2707,13.0827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangalore</name>
+      <description>The IT capital of India. Population: 11,430,000</description>
+      <Point>
+        <coordinates>77.5946,12.9716,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
